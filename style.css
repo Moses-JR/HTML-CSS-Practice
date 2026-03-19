@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #17818d;
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    position: absolute;
+    top: 90px;
+    right: 50px;
+    left: 1000px;
+}
+
+.container {
+    width: 70%;
+    margin: 20px auto;
+    background:#fff;
+    padding: 25px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border-radius: 8px;
+}
+
+header {
+    text-align: left;
+    border-bottom: 2px solid #333;
+    padding-bottom: 10px;
+}
+
+h1 {
+    margin: 0;
+    color: #2c3e50;
+}
+
+.title {
+    color: #555;
+    margin-bottom: 10px;
+}
+
+.contact p {
+    margin: 5px 0;
+    font-size: 14px;
+}
+
+section {
+    margin-top: 20px;
+}
+
+h2 {
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 5px;
+    color: #2c3e50;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+.project {
+    margin-bottom: 10px;
+}
+
+.project h3 {
+    margin: 5px 0;
+    color: #34495e;
+}
+
+p {
+    line-height: 1.5;
+}
